@@ -1,0 +1,30 @@
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\MineBroom.csproj.AssemblyReference.cache
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\MineBroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\MineBroom.AssemblyInfoInputs.cache
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\MineBroom.AssemblyInfo.cs
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\MineBroom.csproj.CoreCompileInputs.cache
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\bin\Debug\net6.0\MineBroom.exe
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\bin\Debug\net6.0\MineBroom.deps.json
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\bin\Debug\net6.0\MineBroom.runtimeconfig.json
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\bin\Debug\net6.0\MineBroom.dll
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\bin\Debug\net6.0\MineBroom.pdb
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\MineBroom.dll
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\refint\MineBroom.dll
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\MineBroom.pdb
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\MineBroom.genruntimeconfig.cache
+C:\Users\still\OneDrive\Desktop\C#\MineBroom\obj\Debug\net6.0\ref\MineBroom.dll
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\MineBroom.csproj.AssemblyReference.cache
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\MineBroom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\MineBroom.AssemblyInfoInputs.cache
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\MineBroom.AssemblyInfo.cs
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\MineBroom.csproj.CoreCompileInputs.cache
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\MineBroom.dll
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\refint\MineBroom.dll
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\MineBroom.pdb
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\bin\Debug\net6.0\MineBroom.exe
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\bin\Debug\net6.0\MineBroom.deps.json
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\bin\Debug\net6.0\MineBroom.runtimeconfig.json
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\bin\Debug\net6.0\MineBroom.dll
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\bin\Debug\net6.0\MineBroom.pdb
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\MineBroom.genruntimeconfig.cache
+C:\Users\still\OneDrive\Desktop\Tech\Belated projects\Belated-projects\MineBroom\obj\Debug\net6.0\ref\MineBroom.dll
